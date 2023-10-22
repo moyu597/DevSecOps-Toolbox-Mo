@@ -11,7 +11,7 @@ spec:
     branch: main
   secretRef:
     name: flux-system
-  url: ssh://git@github.com/saintskeeper/DevSecOps-Toolbox
+  url: ssh://git@github.com/moyu597/DevSecOps-Toolbox-Mo
 ---
 apiVersion: kustomize.toolkit.fluxcd.io/v1
 kind: Kustomization
